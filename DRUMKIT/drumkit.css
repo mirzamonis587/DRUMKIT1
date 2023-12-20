@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(90deg,rgb(235, 245, 88),
+    rgb(99, 239, 225),
+    rgb(103, 130, 255)
+    );
+}
+h1{
+    font-size: 100px;
+    color:rgb(84, 84, 250);
+    text-shadow: 1px 0px white;
+}
+.drum{
+    margin: 10px;
+    height: 130px;
+    width: 130px;
+    
+    border: 5px solid rgb(172, 50, 50);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 2;
+    font-weight: 900;
+    color: black;
+    text-shadow: 2px 0px white;
+    
+    
+}
+.w{
+    background-image: url(drum1.jpg);
+}
+.a{
+    background-image: url(drum2.jpg);
+}
+.s{
+    background-image: url(drum3.jpg);
+}
+.d{
+    background-image: url(drum4.jpg);
+}
+.j{
+    background-image: url(drum5.jpg);
+}
+.k{
+    background-image: url(drum6.jpg);
+}
+.l{
+    background-image: url(drum7.jpg);
+}
